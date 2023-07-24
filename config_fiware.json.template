@@ -1,0 +1,8 @@
+{
+    "platform": "fiware",
+    "config":
+    {
+        "endpoint": <ENDPOINT>,
+        "token": <TOKEN>
+    }
+}
