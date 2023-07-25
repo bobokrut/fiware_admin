@@ -78,16 +78,20 @@ class FiwareClient():
         response = self.send_post(call_endpoint, body = payload)
         return response
     
-    def upload_entities(self, entities):
+    def upload_entities(self, entities, key_values = False):
         """
         Uploads entities to the Fiware instance.
         """
         call_endpoint = f"{self.endpoint}/op/update"
+        if key_values:
+            call_endpoint += "?options=keyValues"
         payload = {
             "actionType": "append_strict",
             "entities": entities
         }
         response = self.send_post(call_endpoint, body = payload)
+        print(payload)
+        return response
     
     def query_entity(self, measurement_request: MeasurementRequest):
         """
