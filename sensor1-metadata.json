@@ -1,0 +1,18 @@
+{
+    "location": {
+        "type": "geo:json",
+        "value": {
+            "type": "Point",
+            "coordinates": [
+                15.587214,
+                48.407630
+            ]
+        },
+        "metadata": {}
+    },
+    "stationName": {
+        "type": "Text",
+        "value": "Campus Krems",
+        "metadata": {}
+    }
+}

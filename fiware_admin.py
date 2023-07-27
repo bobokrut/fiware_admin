@@ -1,7 +1,7 @@
 import argparse
 import json
 from client import FiwareClient
-from random_helper import generate_simple_time_series, time_series_to_json
+from random_helper import generate_simple_time_series, time_series_to_json, add_metadata
 
 ## Helper functions
 def get_type(args):
@@ -74,6 +74,10 @@ if __name__ == "__main__":
     parser.add_argument('-b', '--batch-size', type=int, default=100,
                         help='Number of data points to generate for random data')
 
+    # additional metadat
+    parser.add_argument('-md', '--metadata',
+                        help='Metadata file with additional properties for each entity (e.g. location of a sensor)')
+
     args = parser.parse_args()
     # END PARSING ARGUMENTS
     
@@ -114,6 +118,10 @@ if __name__ == "__main__":
                 print('----------- Generated measurements -----------\n')
                 print(data)
                 data_json = time_series_to_json(data)
+                if args.metadata:
+                    with open(args.metadata) as metadata_file:
+                        metadata_json = json.load(metadata_file)
+                        add_metadata(data_json, metadata_json)
                 result = client.upload_entities(data_json)
                 print(result)
 

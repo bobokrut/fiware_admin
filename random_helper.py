@@ -67,3 +67,14 @@ def time_series_to_json(df):
     """
     result = df.apply(row_to_json, axis=1).to_list()
     return result
+
+
+def add_metadata(data_json, metadata):
+    """
+    Adds the metadata contained in the variable metadata to all the elements in the current
+    dataset.
+    """
+    for entity in data_json:
+        for key, value in metadata.items():
+            entity[key] = value
+
