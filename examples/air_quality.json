@@ -1,0 +1,94 @@
+[
+    {
+        "id": "Madrid-AirQualityObserved-28079059-latest",
+        "type": "AirQualityObserved",
+        "NO": {
+            "type": "Number",
+            "value": 1,
+            "metadata": {}
+        },
+        "NO2": {
+            "type": "Number",
+            "value": 12,
+            "metadata": {}
+        },
+        "NOx": {
+            "type": "Number",
+            "value": 13,
+            "metadata": {}
+        },
+        "O3": {
+            "type": "Number",
+            "value": 101,
+            "metadata": {}
+        },
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "ES",
+                "addressLocality": "Madrid",
+                "streetAddress": "Parque Juan Carlos I frente oficinas mantenimiento"
+            },
+            "metadata": {}
+        },
+        "dataProvider": {
+            "type": "Text",
+            "value": "TEF",
+            "metadata": {}
+        },
+        "dateObserved": {
+            "type": "DateTime",
+            "value": "2023-07-28T01:00:00.00Z",
+            "metadata": {}
+        },
+        "hour": {
+            "type": "Text",
+            "value": "2:00",
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    -3.609072222,
+                    40.46525
+                ]
+            },
+            "metadata": {}
+        },
+        "measurand": {
+            "type": "List",
+            "value": [
+                "NO,1.0,GQ,Nitrogen Monoxide",
+                "NO2,12.0,GQ,Nitrogen Dioxide",
+                "NOx,13.0,GQ,Nitrogen oxides",
+                "O3,101.0,GQ,Ozone"
+            ],
+            "metadata": {}
+        },
+        "source": {
+            "type": "URL",
+            "value": "http://datos.madrid.es",
+            "metadata": {}
+        },
+        "stationCode": {
+            "type": "Text",
+            "value": "28079059",
+            "metadata": {}
+        },
+        "stationName": {
+            "type": "Text",
+            "value": "Juan Carlos I",
+            "metadata": {}
+        },
+        "validity": {
+            "type": "StructuredValue",
+            "value": {
+                "to": "2023-07-28T03:00:00+01:00",
+                "from": "2023-07-28T02:00:00+01:00"
+            },
+            "metadata": {}
+        }
+    }
+]
