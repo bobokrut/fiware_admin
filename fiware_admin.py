@@ -3,6 +3,8 @@ import json
 from client import FiwareClient
 from random_helper import generate_simple_time_series, time_series_to_json, add_metadata
 
+version = "0.0.1"
+
 ## Helper functions
 def get_type(args):
     """
@@ -26,6 +28,8 @@ def check_if_file_exists(path):
 
 
 if __name__ == "__main__":
+    print(f'Fiware-admin version {version}\n')
+
     parser = argparse.ArgumentParser(description='General Fiware admin util for Dataskop/Smart Communities projects.',
                                      epilog='Author: Ruben Ruiz-Torrubiano (ruben.ruiz@fh-krems.ac.at)')
     
@@ -82,6 +86,10 @@ if __name__ == "__main__":
     # END PARSING ARGUMENTS
     
     try:
+        if args.config is None:
+            print('Could not load configuration file.')
+            exit(1)
+
         with open(args.config[0]) as config_file:
             config_json = json.load(config_file)
             config = config_json["config"]
