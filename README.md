@@ -11,6 +11,13 @@ This tool is compatible with [the Orion NGSIv2 API](https://fiware-orion.readthe
 
 ## Usage
 
+First install all dependencies using:
+
+```
+pip install -r requirements.txt
+```
+You can use then the tool using the following syntax:
+
 ```
 usage: fiware_admin.py [-h] [-c <config_file>] [-f] [-t TYPE] [-d] [-u <json_data_file>] [-s <service_path>] [-g] [-m MIN] [-M MAX] [-b BATCH_SIZE] [-md METADATA]
 
