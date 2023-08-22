@@ -1,5 +1,7 @@
 # Fiware-admin: A Simple Administration Tool for Fiware
 
+### Current Version: 0.0.2
+
 Welcome to the repository of **fiware-admin**, a command line tool that provides the following functionality:
 
 - Fetch all data in a Fiware instance.
@@ -115,6 +117,10 @@ In the following examples we will use the short notation for convenience.
 ## License
 
 This software is free under the MIT license was developed in the context of the "Smart Communities" research project, funded by the government of Lower Austria. 
+
+## CHANGELOG
+
+- 22/08/2023: Implemeted pagination for fetching all available entities.
 
 ## Author
 

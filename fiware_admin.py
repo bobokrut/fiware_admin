@@ -3,7 +3,7 @@ import json
 from client import FiwareClient
 from random_helper import generate_simple_time_series, time_series_to_json, add_metadata
 
-version = "0.0.1"
+version = "0.0.2"
 
 ## Helper functions
 def get_type(args):

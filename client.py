@@ -50,12 +50,24 @@ class FiwareClient():
         """
         Gets all entities of a given type (if type provided)
         """
-        call_endpoint = f"{self.endpoint}/entities"
+        call_endpoint = f"{self.endpoint}/entities?"
         if type is not None:
-            call_endpoint += "?type=" + type
-        response = self.send_get(call_endpoint)
-        response_json = response.json()
-        return response_json
+            call_endpoint += "type=" + type + "&limit=1000&offset="
+        else:
+            call_endpoint += "limit=1000&offset="
+        offset = 0
+        call_endpoint_base = call_endpoint
+        final_response = []
+        while True:
+            call_endpoint = call_endpoint_base + str(offset)
+            response = self.send_get(call_endpoint)
+            response_json = response.json()
+            if len(response_json) == 0:
+                break
+            for value in response_json:
+                final_response.append(value)
+            offset += 1000
+        return final_response
     
     def delete_all_entities(self, type=None):
         """
