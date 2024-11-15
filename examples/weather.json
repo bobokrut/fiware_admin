@@ -1,0 +1,7411 @@
+[
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "PT",
+        "addressLocality": "Lisboa G.Coutinho"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1013.8
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2019-06-23T12:00:00.00Z"
+    },
+    "id": "Portugal-WeatherObserved-579-latest",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -9.1275,
+          38.7662
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.9
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.98
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "https://www.ipma.pt"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "579"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Lisboa G.Coutinho"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 19.3
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 45
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.064
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "PT",
+        "addressLocality": "Porto Santo Aeroporto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1015.3
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2019-06-23T12:00:00.00Z"
+    },
+    "id": "Portugal-WeatherObserved-524-latest",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -16.3487,
+          33.074
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.87
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "https://www.ipma.pt"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "524"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Porto Santo Aeroporto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 21.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.036
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2019-07-09T17:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-latest",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 71
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 26
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 28
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.7
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 946.9
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2019-07-09T17:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-latest",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 36
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 27.1
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 140
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 4.9
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "PT",
+        "addressLocality": "Lisboa G.Coutinho"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1019.1
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2019-10-29T12:00:00.00Z"
+    },
+    "id": "urn:ngsi-ld:WeatherObserved:Portugal-WeatherObserved-579-latest",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -9.1275,
+          38.7662
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.93
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "https://www.ipma.pt"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "579"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Lisboa G.Coutinho"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 19.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -90
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.672
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "PT",
+        "addressLocality": "Porto Santo Aeroporto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1018.4
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2019-10-29T12:00:00.00Z"
+    },
+    "id": "urn:ngsi-ld:WeatherObserved:Portugal-WeatherObserved-524-latest",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -16.3487,
+          33.074
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.87
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "https://www.ipma.pt"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "524"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Porto Santo Aeroporto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 23.6
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -90
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.316
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T02:00:00.00Z"
+    },
+    "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-0201D-latest",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 86
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.4
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.1
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 952.9
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T02:00:00.00Z"
+    },
+    "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-3129-latest",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.7
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 13.5
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.8
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T04:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-02T04:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 84
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.4
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 152
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.7
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 952.6
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T04:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-02T04:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 95
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 13
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -170
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.9
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T06:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-02T06:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 84
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 154
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.5
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 952.5
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T06:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-02T06:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 93
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 12.4
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.7
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T08:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-02T08:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 79
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 18.6
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 150
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 953.4
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T08:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-02T08:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 97
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 12.5
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T10:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-02T10:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 79
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 19.4
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 155
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 953.3
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T10:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-02T10:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 78
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 15
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 120
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.9
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T12:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-02T12:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 84
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 19.7
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 107
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 8.9
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 952.8
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T12:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-02T12:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 70
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.7
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 140
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.1
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T14:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-02T14:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 88
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 19.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 97
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 13.7
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 952.1
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T14:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-02T14:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 69
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 140
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T16:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-02T16:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 89
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 19.3
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 92
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 11.3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 952.1
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T16:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-02T16:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 76
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 15.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 140
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.7
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T18:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-02T18:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 90
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 18.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 93
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 9.1
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 952.6
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T18:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-02T18:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 80
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 14.6
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -160
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.7
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T20:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-02T20:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 91
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 18.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 99
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 7.7
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 953.4
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T20:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-02T20:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 87
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 12.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -140
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.5
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T22:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-02T22:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 90
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.3
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -174
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 954.1
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-02T22:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-02T22:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 98
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 11.3
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 150
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-03T00:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-03T00:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 91
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.7
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -175
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 954.3
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-03T00:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-03T00:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 10.2
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-03T02:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-03T02:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 91
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.4
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -175
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 954.5
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-03T02:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-03T02:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 11
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -140
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-03T04:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-03T04:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 90
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.3
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -173
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 3.5
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 954.4
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-03T04:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-03T04:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 11.4
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -140
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-03T06:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-03T06:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 89
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.6
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 166
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 954.8
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-03T06:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-03T06:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 10.6
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.4
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-03T08:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-03T08:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 92
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.5
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 136
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 3.2
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 955.9
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-03T08:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-03T08:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 11.5
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 170
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T04:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-06T04:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 89
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.3
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 177
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.7
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 956.7
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T04:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-06T04:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 9.7
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T06:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-06T06:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 90
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -177
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.8
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 957.2
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T06:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-06T06:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T08:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-06T08:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 89
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.6
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 958.3
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T08:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-06T08:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 9.7
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -170
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.8
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T10:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-06T10:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 86
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 19.5
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 169
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.5
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 958.4
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T10:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-06T10:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 77
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 15.4
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 140
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.2
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T14:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-06T14:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 88
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 20.6
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 77
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 3.9
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 956.2
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T14:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-06T14:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 51
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 21.5
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 40
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T16:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-06T16:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 90
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 18.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 94
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 5.7
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 955.9
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T16:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-06T16:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 54
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 20.7
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 110
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.7
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T18:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-06T18:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 89
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 18.6
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 102
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 5.2
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 955.8
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T18:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-06T18:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 70
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.5
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T20:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-06T20:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 87
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.3
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 168
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 956.7
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T20:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-06T20:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 82
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 13.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -170
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T22:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-06T22:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 90
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 167
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 957.1
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-06T22:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-06T22:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 84
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 12.7
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -160
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T00:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-07T00:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 91
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.1
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 154
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.1
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 956.9
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T00:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-07T00:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 92
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 11
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -140
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.5
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T02:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-07T02:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 91
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.6
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 164
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 956.5
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T02:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-07T02:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 93
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 10
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -170
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.9
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T04:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-07T04:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 91
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.1
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 138
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.9
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 956.4
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T04:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-07T04:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 96
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 8.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -130
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.5
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T06:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-07T06:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 89
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.4
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 126
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.9
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 956.3
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T06:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-07T06:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 8.1
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T08:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-07T08:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 87
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 159
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.1
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 957
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T08:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-07T08:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 97
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 10.2
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T10:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-07T10:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 80
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 18.7
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 110
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 5.3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 957.1
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T10:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-07T10:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 83
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 13.5
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T18:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-07T18:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 86
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 18.1
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 127
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.7
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 954.3
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T18:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-07T18:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 75
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 15.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -20
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.2
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T20:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-07T20:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 86
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.5
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 159
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.2
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 955
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T20:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-07T20:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 85
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 13.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.1
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T22:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-07T22:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 86
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 168
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 955.3
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-07T22:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-07T22:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 93
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 11.5
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 170
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T00:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-08T00:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 89
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.1
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -176
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.8
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 955.3
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T00:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-08T00:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 97
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 10.3
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -150
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T04:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-08T04:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 86
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.1
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -177
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 3.3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 953.8
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T04:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-08T04:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 9.3
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -160
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.4
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T06:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-08T06:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 87
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.2
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 168
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 3.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 954.1
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T06:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-08T06:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 8.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T08:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-08T08:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 85
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 16.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.4
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 954.7
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T08:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-08T08:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 9.9
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T10:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-08T10:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 76
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 19
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 162
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 955.2
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T10:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-08T10:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 90
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 12.4
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T12:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-08T12:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 73
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 21.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 62
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.3
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 954.5
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T12:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-08T12:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 80
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 14.1
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T14:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-08T14:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 81
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 20.6
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 72
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 3.9
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 953.8
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T14:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-08T14:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 74
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 15.7
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -160
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.2
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T16:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-08T16:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 87
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 19.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 49
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.9
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 954
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T16:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-08T16:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 77
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 15.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.8
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T18:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-08T18:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 86
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 19.1
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 27
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.8
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 954.7
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T18:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-08T18:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 90
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 12.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 160
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.5
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T20:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-08T20:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 91
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 18.4
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 95
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0.8
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 955.4
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T20:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-08T20:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 96
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 11.8
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -160
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 2.2
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T22:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-08T22:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 92
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 18
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 956.2
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-08T22:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-08T22:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 10.5
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 170
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.6
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Barcelona"
+      }
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-09T00:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-0201D-2024-11-09T00:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          2.2,
+          41.3906
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 91
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "0201D"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Barcelona"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 17.6
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": -113
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 1.5
+    }
+  },
+  {
+    "address": {
+      "metadata": {},
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressLocality": "Madrid Aeropuerto"
+      }
+    },
+    "atmosphericPressure": {
+      "metadata": {},
+      "type": "Number",
+      "value": 956.4
+    },
+    "dataProvider": {
+      "metadata": {},
+      "type": "Text",
+      "value": "FIWARE"
+    },
+    "dateObserved": {
+      "metadata": {},
+      "type": "DateTime",
+      "value": "2024-11-09T00:00:00.00Z"
+    },
+    "id": "Spain-WeatherObserved-3129-2024-11-09T00:00:00+00:00",
+    "location": {
+      "metadata": {},
+      "type": "geo:json",
+      "value": {
+        "coordinates": [
+          -3.55556,
+          40.4667
+        ],
+        "type": "Point"
+      }
+    },
+    "precipitation": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    },
+    "relativeHumidity": {
+      "metadata": {},
+      "type": "Number",
+      "value": 100
+    },
+    "source": {
+      "metadata": {},
+      "type": "URL",
+      "value": "http://www.aemet.es"
+    },
+    "stationCode": {
+      "metadata": {},
+      "type": "Text",
+      "value": "3129"
+    },
+    "stationName": {
+      "metadata": {},
+      "type": "Text",
+      "value": "Madrid Aeropuerto"
+    },
+    "temperature": {
+      "metadata": {},
+      "type": "Number",
+      "value": 10.1
+    },
+    "type": "WeatherObserved",
+    "windDirection": {
+      "metadata": {},
+      "type": "Number",
+      "value": 180
+    },
+    "windSpeed": {
+      "metadata": {},
+      "type": "Number",
+      "value": 0
+    }
+  }
+]
