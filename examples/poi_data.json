@@ -1,0 +1,2036 @@
+[
+  {
+    "id": "Museum-b24a98d7fd0e4f37947add846d75fc9b",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "El Museo de lastrong Sagrada Familia /strongofrece multitud de elementos y objetos que permiten comprender el significado y la complejidad de la gran obra de Gaudí. A través de planos, dibujos originales, maquetas reconstruidas y distintas piezas, el visitante descubrirá más a fondo el proceso de creación de este impresionante templo, que se ha convertido en el símbolo de strongBarcelona/strong. Desde el museo, que se encuentra situado en el interior de la iglesia, también se puede admirar la sepultura de Gaudí.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.174492788,
+          41.402942517
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Museo del Templo Expiatorio de la Sagrada Familia",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-6e746e32190d236e69834df0bc28331f",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "El CCCB es una institución multidisciplinar, a la que se le puede definir como un centro de cultura urbana y que organiza, entre otras actividades, exposiciones, programaciones musicales, danza, cursos, conferencias, itinerarios urbanos… El recinto está dedicado a la ciudad y a los fenómenos que se derivan de ella. Fomenta asimismo, la creación artística a partir de nuevas tecnologías y lenguajes, la investigación en el ámbito expositivo y el debate.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.166787706,
+          41.383885
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Centro de Cultura Contemporánea CCCB",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-9a8ea922993376094643e594265fe735",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Un apasionado recorrido por uno de los clubes más importantes del mundo.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.121332838,
+          41.37821036
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Museo del Fútbol Club Barcelona",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-2ed31f28a9574e11adb303d1a7831f01",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Situated in the Disseny Hub Barcelona building, the museum holds 70,000 items, including decorative arts, ceramics, industrial design, textile and graphic arts from different periods.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.1862465,
+          41.4039146
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Museu del Disseny de Barcelona",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-ec76f826ac6285c697fd21ff8994e58a",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "El museo se ubica en una antigua fábrica modernista que fue diseñada por el arquitecto Puig i Cadafalch.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.1495769,
+          41.371342
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "CaixaForum",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-0621a3a3c85382285c2c16f1e75e5481",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "El Museo Picasso constituye un testimonio claro de los lazos que unieron a este artista universal con strongBarcelona/strong. En esta ciudad no sólo consolidó una sólida formación académica, sino que la efervescencia artística que vivió constituyó el motor de arranque que le abrió el camino hacia la modernidad.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.180814909,
+          41.385182634
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Museo Picasso de Barcelona",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-0db4c02d230034a46ddad15ceb6c4218",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "El museo exhibe obras de artistas pertenecientes a los últimos 50 años de historia.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.166877152,
+          41.383022358
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Museo de Arte Contemporáneo de Barcelona MACBA",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-3e71d9f36eeaaffb721b52d016700b41",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "El Museo de Historia de la Ciudad se encarga de velar por la investigación, conservación y difusión del patrimonio de strongBarcelona/strong. Es una institución activa, que interpreta y explica la ciudad tanto a partir de sus propias colecciones como a través de las de los demás museos o del legado histórico urbano que la configura. El visitante puede aproximarse a la historia de Barcelona a través de los restos materiales del pasado. Así, en el subsuelo de la plaza del Rei, de la calle Comtes, de la plaza de Sant Iu, del Museo Marès y de parte de la strongcatedral gótica/strong se encuentra el área arqueológica visitable, con significativos vestigios y huellas que dan fe de los orígenes de la ciudad, la Colonia Iulia Augusta Faventia Paterna Barcino, fundada por los romanos hace 2.000 años.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.177792134,
+          41.383910891
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Museo de Historia de la Ciudad",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-096df89182eee090660018e838e24a2e",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "The MNAC contains works of art from the 10th to the 20th century.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.153495845,
+          41.368031667
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "National Art Museum of Catalonia MNAC",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-7c1a208c06c7277e4ad1cec5cb4cd3de",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "The aim is to conserve and disseminate the archaeological remains that illustrate evolution throughout history, from prehistoric times through to the Medieval period.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.157665564,
+          41.369728691
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Archaeological Museum of Catalonia MAC",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-43c4c8321324ffe82969e9a8218e7a2e",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "The museum is in the Reials Drassanes, an emblematic area of Barcelona.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.176578934,
+          41.376109808
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Barcelona Maritime Museum",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-9c1c26ab5ca43f55579d69bde94326a4",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Este renovado museo de la ciencia reúne colecciones botánicas, de insectos, piedras, meteoritos, tejidos cerebrales y hasta fósiles de auténticos dinosaurios. La exposición permanente incluye, entre otras novedades espectaculares, un bosque amazónico inundado y un gran muro geológico, y está diseñada sin compartimentos físicos o conceptuales para conseguir una interactividad manual, mental y cultural entre el visitante y las piezas expuestas.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.131951982,
+          41.413594853
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "CosmoCaixa",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-e06888c8b3160f4a62293ce9d01c363d",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "El museo supone un recorrido por la obra de Joan Miró, artista prolífico y original.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.1598509,
+          41.3686304
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Fundación Joan Miró",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-097a129503176bb6d81738503a62b5ee",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "El strongParque Güell/strong, diseñado por Antoni Gaudí, es el marco donde se encuentra la casa-museo del arquitecto. Francesc Berenguer, discípulo suyo, fue el encargado de construir el edificio, donde Gaudí vivió durante 20 años.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.153590802,
+          41.414465973
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Casa-Museo Gaudí",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-a33ee857244e0cdd82b3bad8b4e6a451",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "A look at the work of this outstanding artist, who reflects the modern world in a completely unique way.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.163674191,
+          41.391528006
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Museum of the Antoni Tàpies Foundation",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-7cca5a1215a48c1801515ffa75709602",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Located in the Clos Archaeological Foundation, its aim is to promote awareness of the art and culture of Ancient Egypt.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.164750431,
+          41.393640273
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Egyptian Museum in Barcelona",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Museum-9699c68d6a4a7d5816ab6dfc5e194566",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "311"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "A space for approaching the work of genius Antoni Gaudí through new technologies.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.1537284,
+          41.4124745
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gaudí Experiencia",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "TouristInformationCenter-b219d85cd909839d9e25a48179754df0",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "439"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.177521044,
+          41.382462475
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Centro de Información de Turismo de Barcelona",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "TouristInformationCenter-25fae299e9bf47f1a676d3ad22809ae0",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "439"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.139882238,
+          41.37878285
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Oficina de Turismo de Barcelona - Estación Sants",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "TouristInformationCenter-5f85e89db77b8372235869c3eecc9f83",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "439"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.159454479,
+          41.396158811
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Oficina de Turismo de Cataluña Palau Robert",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Beach-be9429b1538a50977a0893a2e9590af7",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "113"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "El Paseo Marítimo que tiene se prolonga hasta el famoso barrio de la Barceloneta. Es una buena playa que dispone de variados servicios: duchas, servicio de vigilancia, bares y parking. Tiene un fácil acceso a la misma a través de rampas.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.215000556,
+          41.401511111
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Playa: La Nova Mar Bella",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Beach-5322230ba7e6fc49c776f54e57e90c54",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "113"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Playa urbana de arena dorada",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.190106944,
+          41.374050833
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Playa: Sant Miquel",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Beach-eb8b801db09b134471598c0c0dbf4fc0",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "113"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "La playa de Llevant pertenece al Distrito de Sant Martí.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.217575556,
+          41.404162222
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Playa: Llevant",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Beach-b3945dd9ea03fd73cf3565f078b0c0b8",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "113"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Pertenece al Distrito de Sant Martí",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.225553611,
+          41.407766944
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Playa: Zona banys Fòrum",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Beach-0f2c5483f448700238a865b8680fb940",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "113"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Playa urbana de arena dorada y aguas tranquilas",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.195555556,
+          41.383141667
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Playa: Somorrostro",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Beach-eeb8e96a0befe4ac57017dc76ef38fc6",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "113"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Es la playa que está junto al Puerto Olímpico de Barcelona . Tiene un paseo marítimo que llega hasta la Barceloneta. Cerca de la playa hay una explanada con bancos de piedra para contemplar el paisaje.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.202546944,
+          41.390673889
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Playa: La Nova Icària",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Beach-35230b8a86556dc7b39739495825af50",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "113"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Se desarrolla a lo largo de todo el paseo marítimo hasta llegar al Puerto Olímpico, en el conocido y antiguo barrio marinero del mismo nombre: La Barceloneta. Dispone de todos los servicios propios de una playa urbana. Esta playa, de gran calidad se unifica con dos playas por ambos extremos: por un lado, hacia el Puerto Olímpico con la playa del Paseo Marítimo y hacia el Puerto de Barcelona con la playa de San Sebastiá. Estas playas disponen todas, sobre todo en época estival, de un gran equipo de vigilancia patrullado por la Guardia Urbana.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.192392778,
+          41.37776
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Playa: La Barceloneta",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Beach-e3c80f6827a4f2ed090441dcdfb9aa39",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "113"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Está situada entre la playa de la Nova Mar Bella y Bogatell. Muy cerca de la playa se encuentra un complejo polideportivo. El Paseo Marítimo se prolonga hasta la playa de la Barceloneta. Puede practicarse el surf en los días de viento.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.211928611,
+          41.398468611
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Playa: La Mar Bella",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Beach-091bdb6532dc997fe8d6aecdea3c25d8",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "113"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Muy cerca del Puerto Olímpico se encuentra esta playa separada de otras dos playas de similares características por dos espigones de piedra. Cuenta con servicio de vigilancia, duchas, acceso a la playa por medio de rampas, bares, restaurantes, aparcamiento, etc. El paseo marítimo sigue hasta la playa de Sant Sebastiá, en el Barrio de la Barceloneta.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.207198056,
+          41.394759444
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Playa: El Bogatell",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "Beach-9c85f0f01c5cebf8012f99d3c5b233f5",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressLocality": "Barcelona",
+        "addressRegion": "Barcelona",
+        "addressCountry": "ES"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "List",
+      "value": [
+        "113"
+      ],
+      "metadata": {}
+    },
+    "dataProvider": {
+      "type": "Text",
+      "value": "FIWARE Foundation e.V.",
+      "metadata": {}
+    },
+    "description": {
+      "type": "Text",
+      "value": "Se puede considerar como el último tramo de la playa de La Barceloneta. Cuenta con todo tipo de servicios: duchas, vigilancia, bares, así como unos buenos accesos a la playa adapatados para personas con alguna discapacidad.",
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.189531944,
+          41.372200278
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Playa: Sant Sebastià",
+      "metadata": {}
+    },
+    "source": {
+      "type": "URL",
+      "value": "http://www.tourspain.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "WeatherStation-ES-0255B",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Santa Susanna"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.69694,
+          41.6508
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "WeatherStation-ES-0252D",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Arenys De Mar"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.54,
+          41.5875
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "WeatherStation-ES-0229I",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Sabadell Aeropuerto"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.10306,
+          41.5236
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "WeatherStation-ES-0201D",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Barcelona"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.2,
+          41.3906
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "WeatherStation-ES-0200E",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Barcelona, Fabra"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.12417,
+          41.4183
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "WeatherStation-ES-0149X",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Manresa"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          1.84028,
+          41.72
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "WeatherStation-ES-0076",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Barcelona Aeropuerto"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.07,
+          41.2928
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PointOfInterest:WeatherStation-ES-0255B",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Santa Susanna"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.69694,
+          41.6508
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PointOfInterest:WeatherStation-ES-0252D",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Arenys De Mar"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.54,
+          41.5875
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PointOfInterest:WeatherStation-ES-0229I",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Sabadell Aeropuerto"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.10306,
+          41.5236
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PointOfInterest:WeatherStation-ES-0201D",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Barcelona"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.2,
+          41.3906
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PointOfInterest:WeatherStation-ES-0200E",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Barcelona, Fabra"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.12417,
+          41.4183
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PointOfInterest:WeatherStation-ES-0149X",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Manresa"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          1.84028,
+          41.72
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:PointOfInterest:WeatherStation-ES-0076",
+    "type": "PointOfInterest",
+    "address": {
+      "type": "PostalAddress",
+      "value": {
+        "addressCountry": "ES",
+        "addressRegion": "Barcelona",
+        "addressLocality": "Barcelona Aeropuerto"
+      },
+      "metadata": {}
+    },
+    "category": {
+      "type": "array",
+      "value": [
+        "WeatherStation"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          2.07,
+          41.2928
+        ]
+      },
+      "metadata": {}
+    },
+    "source": {
+      "type": "Text",
+      "value": "http://www.aemet.es",
+      "metadata": {}
+    }
+  }
+]

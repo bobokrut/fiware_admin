@@ -1,0 +1,18 @@
+{
+    "location": {
+        "type": "geo:json",
+        "value": {
+            "type": "Point",
+            "coordinates": [
+                15.587805,
+                48.402929
+            ]
+        },
+        "metadata": {}
+    },
+    "stationName": {
+        "type": "Text",
+        "value": "Wellenspiel Krems",
+        "metadata": {}
+    }
+}
